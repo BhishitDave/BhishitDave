@@ -19,13 +19,15 @@
 
 <br/>
 <br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 
-
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning React
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-bhishitdave1809@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhishitdave1809@gmail.com)](mailto:bhishitdave1809@gmail.com)
 - ⚡ Fun fact: I love travel vlogs and can watch them whole day.
+- - 📝[Resume](https://drive.google.com/file/d/10IeQm_8FxVZtICs4ejbBkkzZINsw8m5q/view)
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhishitdave.tech-2648ff?style=flat-square&logo=google-chrome)](https://bhishitdave.tech/)
 
