@@ -24,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: [Mail - @BhishitDave](bhishitdave1809@gmail.com)
+- 📫 How to reach me: [mail - bhishitdave1809@gmail.com](https://bhishitdave.tech/)
 - ⚡ Fun fact: I love travel vlogs and can watch them whole day.
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhishitdave.tech-2648ff?style=flat-square&logo=google-chrome)](https://bhishitdave.tech/)
