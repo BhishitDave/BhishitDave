@@ -24,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-mgorasiya1974@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhishitdave1809@gmail.com)](mailto:bhishitdave1809@gmail.com)
+- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-bhishitdave1809@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhishitdave1809@gmail.com)](mailto:bhishitdave1809@gmail.com)
 - ⚡ Fun fact: I love travel vlogs and can watch them whole day.
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-bhishitdave.tech-2648ff?style=flat-square&logo=google-chrome)](https://bhishitdave.tech/)
