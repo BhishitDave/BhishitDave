@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/BhishitDave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhishitDave&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/BhishitDave">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Bhishit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=BhishitDave&show_icons=true&theme=light&line_height=27" alt="Bhishit's github stats"/>
 </a>
 
 <div align="center">
