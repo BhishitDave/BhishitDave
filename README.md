@@ -24,7 +24,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working as Data Engineer at Amazon
 - 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-bhishitdave1809@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhishitdave1809@gmail.com)](mailto:bhishitdave1809@gmail.com)
 - ⚡ Fun fact: I love travel vlogs and can watch them whole day.
 - 📝[Resume](https://drive.google.com/file/d/10IeQm_8FxVZtICs4ejbBkkzZINsw8m5q/view)
